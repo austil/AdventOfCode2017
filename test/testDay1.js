@@ -1,4 +1,4 @@
-const d = require('../src/day1');
+const d = require('../src/day1_captcha');
 const assert = require('assert');
 
 describe('Day 1 - Captcha', function() {
