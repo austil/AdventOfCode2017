@@ -13,3 +13,4 @@ Days that were fairly "easy" :
 Days that were a struggle :
 
 * day 3 - spiral : a funky data structure
+* day 5 - instructions jump : "Maximum call stack size exceeded", learned about trampoline function and found a [Workaround for lack of "tail call optimization" in JS ](https://gist.github.com/Gozala/1697037).
