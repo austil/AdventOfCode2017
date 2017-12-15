@@ -13,4 +13,13 @@ Days that were fairly "easy" :
 Days that were a struggle :
 
 * day 3 - spiral : a funky data structure
-* day 5 - instructions jump : "Maximum call stack size exceeded", learned about trampoline function and found a [Workaround for lack of "tail call optimization" in JS ](https://gist.github.com/Gozala/1697037).
+* day 5 - instructions jump
+
+  > Maximum call stack size exceeded
+  
+  Learned about trampoline function and found a [Workaround for lack of "tail call optimization" in JS ](https://gist.github.com/Gozala/1697037).
+
+## Ressources
+
+* [Functional Light JS](https://github.com/getify/Functional-Light-JS) : a balanced and pragmatic look at FP in JavaScript.
+* [JSCheck](http://www.jscheck.org/) : a specification-driven testing tool inspired by the Haskell testing tool QuickCheck.
